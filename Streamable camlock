@@ -2,7 +2,7 @@ getgenv().Wraith = {
     ['Camlock'] = {
         ['Prediction'] = {
             ['Horizontal'] = 0.1678963,
-            ['Vertical'] = 0.12567724521
+            ['Vertical'] = 0.1378963
         },
         ['Smoothness'] = {
             ['Enabled'] = true,
