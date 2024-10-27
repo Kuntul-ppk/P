@@ -6,7 +6,7 @@ getgenv().Wraith = {
         },
         ['Smoothness'] = {
             ['Enabled'] = true,
-            ['Amount'] = 0.08
+            ['Amount'] = 0.2
         },
         ['Offset'] = {
             ['Vertical'] = 0.06
